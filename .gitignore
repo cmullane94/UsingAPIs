@@ -1,7 +1,0 @@
-#Ignore these:
-ArcGIS_API/*
-discharge/*
-Geopandas/*
-data/Charlotte/*
-
-.ipynb_checkpoints
